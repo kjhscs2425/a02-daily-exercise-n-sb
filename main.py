@@ -26,8 +26,13 @@ for i in range (2):
     t.forward(50)
     t.right(90)
 
-for i in range(2):
+for i in range (2):
+    t.forward(30)
+    t.right(90)
+
+for i in range (2):
     t.forward(20)
     t.right(90)
+
 
 t.exitonclick()
